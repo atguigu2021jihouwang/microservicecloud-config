@@ -12,3 +12,5 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-atguigu-test
+
+# 如果没有问题,会打印上面的信息; 比如: 测试环境会打印test
